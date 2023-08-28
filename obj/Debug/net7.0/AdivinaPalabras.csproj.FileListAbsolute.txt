@@ -1,0 +1,14 @@
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\bin\Debug\net7.0\AdivinaPalabras.exe
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\bin\Debug\net7.0\AdivinaPalabras.deps.json
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\bin\Debug\net7.0\AdivinaPalabras.runtimeconfig.json
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\bin\Debug\net7.0\AdivinaPalabras.dll
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\bin\Debug\net7.0\AdivinaPalabras.pdb
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\AdivinaPalabras.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\AdivinaPalabras.AssemblyInfoInputs.cache
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\AdivinaPalabras.AssemblyInfo.cs
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\AdivinaPalabras.csproj.CoreCompileInputs.cache
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\AdivinaPalabras.dll
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\refint\AdivinaPalabras.dll
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\AdivinaPalabras.pdb
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\AdivinaPalabras.genruntimeconfig.cache
+c:\Users\Sebastian Cuello\Desktop\projects\AdivinaPalabras\obj\Debug\net7.0\ref\AdivinaPalabras.dll
